@@ -1,4 +1,4 @@
 
-# Hey Bro 🐈‍⬛🐒👽
+# Hey Bro 🐒
 How can I help you today?
 
