@@ -1,31 +1,49 @@
-### Hi there 👋
+
+# Backend Developer in Japan👋
+### Just 1000 years old 
+### Feel free to contact me anytime!👍
+#
+![syunta1999's GitHub stats](https://github-readme-stats.vercel.app/api?username=syunta1999&show_icons=true&theme=vue-dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syunta1999&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=syunta1999&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![My Twitter Followers](https://badgen.net/twitter/follow/Masa36940064)](https://twitter.com/Masa36940064)
+
+
+# NOW TRAINING
 
 <p align="left">
-  <a href="https://github.com/syunta1999/syunta1999/">
-    <img src="https://komarev.com/ghpvc/?username=syunta1999" alt="syunta1999" />
-  </a>
-  <a href="http://twitter.com/syunta1999">
-    <img height="20" src="https://img.shields.io/twitter/follow/syunta1999?label=Twitter&logo=twitter&style=flat" />
-  </a>
-  <a href="https://github.com/syunta1999">
-    <img height="20" src="https://img.shields.io/github/followers/syunta1999?label=follow&logo=github&style=flat" />
-  </a>
-  <a href="https://www.reddit.com/user/syunta1999">
-    <img height="20" src="https://img.shields.io/reddit/user-karma/combined/syunta1999?label=Reddit&logo=reddit&style=flat" />
-  </a>
-  <a href="https://stackoverflow.com/users/5720201/syunta1999">
-    <img height="20" src="https://img.shields.io/stackexchange/stackoverflow/r/5720201?label=StackOverflow&logo=stack-overflow&style=flat" />
-  </a>
-  <a href="http://qiita.com/syunta1999">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/syunta1999/posts.svg" />
-  </a>
-  <//qiita.com/syunta1999">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/syunta1999/contributions.svg" />
-  </a>
+<a href="https://twitter.com/[Foo]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="[Foo]" height="30" width="40" /></a>
+<a href="[Foo_email]"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=[Foo_email]"/></a>
 </p>
-<div style="display: flex;">
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syunta1999&https://github.com/anuraghazra/github-readme-stats" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=syunta1999&show_icons=true&theme=transparent" />
-</div>
-[![trophy](https://github-profile-trophy.vercel.app/?username=syunta1999&theme=blue-green&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
+
+
+# My Skill (Programming Languages, Frameworks and Tools)
+
+<img src="https://skillicons.dev/icons?i=html,css,js,typescript,firebase,react,vue,next,sqlite,mysql,github,vscode,docker,laravel,cakephp,discord,php,gutlab,jquery,aws,vite" /> <br /><br />
+
+  ※Another skill and tools
+  Codeigniter, Virtual Box, CakePHP, CircleCI and so on.
+  
+# NOW TRAINING
+
+<img src="https://skillicons.dev/icons?i=react,next,typescript,mysql,laravel,docker,vscode,github" /> <br /><br />
+
+
+<!-- --------------------------------- :) ---------------------------------- -->
+
+<br><br><br>
+
+<div align="center">
+    <h1>
+        <img src="https://user-images.githubusercontent.com/44926913/175852850-3fb6c715-1856-41ff-8c1f-94ce3b03b458.gif">・・
+        <img src="https://user-images.githubusercontent.com/44926913/175853109-f8850656-6704-4a8a-bee6-9aca154d929b.gif">・・
+        <img src="https://user-images.githubusercontent.com/44926913/175853154-5449d974-975e-44a6-ab84-a86031265e40.gif">・・・・
+        <img src="https://user-images.githubusercontent.com/44926913/175853109-f8850656-6704-4a8a-bee6-9aca154d929b.gif">・
+        <img src="https://user-images.githubusercontent.com/44926913/175853154-5449d974-975e-44a6-ab84-a86031265e40.gif">・・・・
+    </h1>
+  </div>
+<br><br><br>
