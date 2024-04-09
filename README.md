@@ -27,4 +27,5 @@
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syunta1999&https://github.com/anuraghazra/github-readme-stats" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=syunta1999&show_icons=true&theme=transparent" />
 </div>
-![](https://skillicons.dev/icons?i=js,typescript,python,php)
+[![trophy](https://github-profile-trophy.vercel.app/?username=syunta1999&theme=blue-green&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
