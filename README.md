@@ -1,6 +1,5 @@
 
 # Hey Bro 🐒
-How can I help you today?
 
 ## Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=syunta1999&theme=gruvbox)
